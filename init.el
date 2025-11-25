@@ -136,7 +136,7 @@
   (setq auto-dark-themes '((modus-vivendi) (modus-operandi))))
 
 
-(set-frame-font "Iosevka SS15 13")
+(set-frame-font "SF Mono 10")
 
 (with-eval-after-load 'auto-dark
   (auto-dark-mode))
