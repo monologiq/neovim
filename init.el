@@ -144,3 +144,7 @@
 
 (elpaca transient)
 (elpaca (magit :wait t))
+
+
+(elpaca pdf-tools)
+(require 'pdf-tools)
